@@ -35,3 +35,4 @@ while a<=100:
     a+=1
     print('和为',sum)
 
+
