@@ -5,4 +5,6 @@
 ##下载地址 https://www.jetbrains.com/pycharm/download/#section=windows
 
 #range语法
-![Image text](./image/range.png)
+![Image text](/image/range.png)
+#if while的区别
+![Image text](/image/if_while.png)
