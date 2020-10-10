@@ -3,3 +3,6 @@
 
 #开发工具
 ##下载地址 https://www.jetbrains.com/pycharm/download/#section=windows
+
+#range语法
+![Image text](./image/range.png)
