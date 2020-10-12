@@ -9,7 +9,14 @@
 '''
 
 #乘法表
-for i in range(1,10):#行数
+'''for i in range(1,10):#行数
     for j in range(1,i+1):
         print(i,'*',j,'=',i*j,end='\t')
+    print()
+'''
+for i in range(5):
+    for j in range(1,11):
+        if j%2==0:
+            continue
+            print(j,end='\t')
     print()
