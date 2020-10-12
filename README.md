@@ -17,4 +17,5 @@
 ![Image text](/image/zengjia.png)
 #移除元素
 ![Image text](/image/yichu.png)
-
+#列表 字典 元组 集合
+![Image text](/image/zong.png)
