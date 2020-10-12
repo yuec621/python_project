@@ -3,7 +3,7 @@
 # 开发时间：2020/10/10 0010 15:01
 #输出一个二行的矩形
 '''for i in range(1,4):
-    for j in range(1,5):
+    for j in range(1,9):
         print('*',end='\t')#不换行输出
     print()#换行
 '''
@@ -14,9 +14,11 @@
         print(i,'*',j,'=',i*j,end='\t')
     print()
 '''
+
 for i in range(5):
     for j in range(1,11):
         if j%2==0:
             continue
-            print(j,end='\t')
+        print(j,end='\t')
     print()
+

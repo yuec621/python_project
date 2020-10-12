@@ -8,3 +8,13 @@
 ![Image text](/image/range.png)
 #if while的区别
 ![Image text](/image/if_while.png)
+#list的特点
+![Image text](/image/list.png)
+![Image text](/image/list2.png)
+![Image text](/image/list3.png)
+
+#增加元素的操作
+![Image text](/image/zengjia.png)
+#移除元素
+![Image text](/image/yichu.png)
+
