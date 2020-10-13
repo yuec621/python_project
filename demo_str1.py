@@ -61,7 +61,17 @@ lst=['1','2','3']
 print('|'.join(lst))'''
 
 ##字符串的比较操作
-print('12'>'1')
+'''print('12'>'1')
 print('123'>'45')
-print(ord('1'),ord('4')) #原始值的比较
+print(ord('1'),ord('4')) #原始值的比较'''
+
+#编码
+#byte代表是一个二进制数据
+s='天涯共此时'
+byte=s.encode(encoding='GBK')#编码
+print(byte.decode(encoding='GBK'))#解码
+
+byte=s.encode(encoding='UTF-8')
+print(byte.decode(encoding='UTF-8'))
+
 
