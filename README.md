@@ -31,3 +31,5 @@
 ![Image text](/image/str4.png)
 ##字符串判断的方法
 ![Image text](/image/str5.png)
+##异常类型
+![Image text](/image/exception.png)
