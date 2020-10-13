@@ -19,3 +19,15 @@
 ![Image text](/image/yichu.png)
 #列表 字典 元组 集合
 ![Image text](/image/zong.png)
+
+#字符串的常用操作
+##查询操作
+![Image text](/image/str.png)
+##字符串大小写转化
+![Image text](/image/str2.png)
+##字符串对齐
+![Image text](/image/str3.png)
+##字符串拆分
+![Image text](/image/str4.png)
+##字符串判断的方法
+![Image text](/image/str5.png)
